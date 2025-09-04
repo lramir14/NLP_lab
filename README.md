@@ -18,6 +18,6 @@ This repository contains example code and additional materials for the course.
 ## 🛠️ Installation
 Clone the repo:
 ```bash
-cd nlp-laboratory
+cd *your directory*
 git clone https://github.com/YourUsername/nlp-laboratory.git
 
